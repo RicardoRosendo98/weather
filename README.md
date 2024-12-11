@@ -26,6 +26,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
+## Teste feito
+![weather](https://github.com/user-attachments/assets/8db1173d-a83a-4f7e-a805-0acb8e8cccdc)
 
 ## Instalação das Dependências
 
@@ -34,5 +36,3 @@ Antes de começar, instale as dependências necessárias executando o seguinte c
 ```bash
 npm install @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/angular-fontawesome
 
-## Teste feito
-![weather](https://github.com/user-attachments/assets/8db1173d-a83a-4f7e-a805-0acb8e8cccdc)
