@@ -33,3 +33,6 @@ Antes de começar, instale as dependências necessárias executando o seguinte c
 
 ```bash
 npm install @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/angular-fontawesome
+
+## Teste feito
+![weather](https://github.com/user-attachments/assets/8db1173d-a83a-4f7e-a805-0acb8e8cccdc)
