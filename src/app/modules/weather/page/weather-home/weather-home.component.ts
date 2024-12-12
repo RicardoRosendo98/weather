@@ -11,7 +11,7 @@ import { faMagnifyingGlass } from '@fortawesome/free-solid-svg-icons';
 })
 export class WeatherHomeComponent implements OnInit, OnDestroy {
   private readonly destroy$: Subject<void> = new Subject();
-  initialCityName = 'Pelotas';
+  initialCityName = "Pelotas";
   weatherDatas!: WeatherDatas;
   searchIcon = faMagnifyingGlass
 
@@ -37,7 +37,6 @@ export class WeatherHomeComponent implements OnInit, OnDestroy {
 
   onSubmit(): void {
     this.getWeatherDatas(this.initialCityName);
-    console.log('CHAMOU A FUNÇÃO')
     this.initialCityName = '';
   }
 
