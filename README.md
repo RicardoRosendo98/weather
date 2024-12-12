@@ -33,6 +33,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 Antes de começar, instale as dependências necessárias executando o seguinte comando:
 
-```bash
-npm install @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/angular-fontawesome
+bash
+`npm install @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/angular-fontawesome`
 
+## Pagina final do projeto
+![previsão do tempo final](https://github.com/user-attachments/assets/5e10760b-991a-4094-8213-69c4c2a33def)
